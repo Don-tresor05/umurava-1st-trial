@@ -89,7 +89,7 @@ export default function LoginPage() {
         </div>
 
         <div className="relative z-10">
-          <p className="text-slate-600 text-sm">Powered by Gemini 2.5 Pro</p>
+          <p className="text-slate-600 text-sm">Powered by Red Team Pro</p>
         </div>
       </div>
 
